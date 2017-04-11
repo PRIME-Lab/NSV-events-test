@@ -1,19 +1,29 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
-	<Property Name="varPersistentID:{13506C93-5434-46A7-8245-D2CBDFE99159}" Type="Ref">/TestStand-cRIO/RT local Shared Variables.lvlib/Flash RT?</Property>
-	<Property Name="varPersistentID:{3025F4A4-F158-4C82-A98D-57CAADC2EAC5}" Type="Ref">/TestStand-cRIO/RT global Shared Variables.lvlib/Raw half period</Property>
-	<Property Name="varPersistentID:{61F97BBD-229E-4D98-A8A2-560F0AA0E93B}" Type="Ref">/TestStand-cRIO/RT global Shared Variables.lvlib/RT half period</Property>
-	<Property Name="varPersistentID:{6817C50F-1D80-445C-90D0-62DD028BF99C}" Type="Ref">/TestStand-cRIO/RT global Shared Variables.lvlib/Last command</Property>
-	<Property Name="varPersistentID:{77DAC34A-D632-475F-BBB0-51C2842C8ADD}" Type="Ref">/My Computer/Host bound Shared Variables.lvlib/RT half period</Property>
+	<Property Name="varPersistentID:{00E9FB0C-0DF2-4634-B95A-50CEE7A42BAB}" Type="Ref">/Test-cRIO/RT local Shared Variables.lvlib/Command relay error</Property>
+	<Property Name="varPersistentID:{0772E948-EB1F-46A6-A577-E64FDF7D6C94}" Type="Ref">/Test-cRIO/RT local Shared Variables.lvlib/RT LED control error</Property>
+	<Property Name="varPersistentID:{12D72CC4-3C50-4C41-822A-C2104076F9F6}" Type="Ref">/Test-cRIO/RT local Shared Variables.lvlib/State Machine error</Property>
+	<Property Name="varPersistentID:{13450463-4C4E-4AE7-A6C9-31811BD82EAC}" Type="Ref">/My Computer/test-HMI shared var.lvlib/Flash FPGA?</Property>
+	<Property Name="varPersistentID:{13506C93-5434-46A7-8245-D2CBDFE99159}" Type="Ref">/Test-cRIO/RT local Shared Variables.lvlib/Flash RT?</Property>
+	<Property Name="varPersistentID:{1A5FF5AE-1518-4113-AB5A-E02CD340BD63}" Type="Ref">/My Computer/test-HMI shared var.lvlib/error out</Property>
+	<Property Name="varPersistentID:{2215E803-137C-4FDF-8D0B-CD48890626D8}" Type="Ref">/My Computer/test-HMI shared var.lvlib/Flash RT?</Property>
+	<Property Name="varPersistentID:{3025F4A4-F158-4C82-A98D-57CAADC2EAC5}" Type="Ref">/Test-cRIO/RT global Shared Variables.lvlib/Raw half period</Property>
+	<Property Name="varPersistentID:{58BEAE92-718D-4907-B386-B55576587224}" Type="Ref">/Test-cRIO/RT global test shared var.lvlib/Loop Counter</Property>
+	<Property Name="varPersistentID:{61F97BBD-229E-4D98-A8A2-560F0AA0E93B}" Type="Ref">/Test-cRIO/RT global Shared Variables.lvlib/RT half period</Property>
+	<Property Name="varPersistentID:{6428632C-CCD1-4ECC-8050-50CAAA2FA003}" Type="Ref">/Test-cRIO/RT global test shared var.lvlib/error out</Property>
+	<Property Name="varPersistentID:{6817C50F-1D80-445C-90D0-62DD028BF99C}" Type="Ref">/Test-cRIO/RT global Shared Variables.lvlib/Last command</Property>
+	<Property Name="varPersistentID:{77DAC34A-D632-475F-BBB0-51C2842C8ADD}" Type="Ref">/My Computer/Host Shared Variables.lvlib/RT half period</Property>
 	<Property Name="varPersistentID:{7ABE8596-7564-4B8F-8E64-F5D64D38C9E8}" Type="Ref">/My Computer/Host Shared Variables.lvlib/Frequency</Property>
-	<Property Name="varPersistentID:{88218107-CDB2-417A-924C-C8927FECD045}" Type="Ref">/My Computer/Host bound Shared Variables.lvlib/Last command time</Property>
-	<Property Name="varPersistentID:{A247E66E-0A4A-4A8B-A6CA-3C5372B00B51}" Type="Ref">/TestStand-cRIO/RT global Shared Variables.lvlib/Command</Property>
-	<Property Name="varPersistentID:{ADB309D3-1076-49B5-A5A6-8144FCAD8E12}" Type="Ref">/TestStand-cRIO/RT local Shared Variables.lvlib/half period</Property>
-	<Property Name="varPersistentID:{B165B21B-9C9F-49E0-AC22-0000E221D007}" Type="Ref">/TestStand-cRIO/RT local Shared Variables.lvlib/SM command</Property>
-	<Property Name="varPersistentID:{DF2637E8-3831-41CF-9F20-0B3B0014498E}" Type="Ref">/TestStand-cRIO/RT global Shared Variables.lvlib/Frequency</Property>
+	<Property Name="varPersistentID:{81D4BE11-FFAA-4C85-962D-ECE2C23EAA7F}" Type="Ref">/Test-cRIO/RT global test shared var.lvlib/Flash RT?</Property>
+	<Property Name="varPersistentID:{88218107-CDB2-417A-924C-C8927FECD045}" Type="Ref">/My Computer/Host Shared Variables.lvlib/Last command time</Property>
+	<Property Name="varPersistentID:{A247E66E-0A4A-4A8B-A6CA-3C5372B00B51}" Type="Ref">/Test-cRIO/RT global Shared Variables.lvlib/Command</Property>
+	<Property Name="varPersistentID:{ADB309D3-1076-49B5-A5A6-8144FCAD8E12}" Type="Ref">/Test-cRIO/RT local Shared Variables.lvlib/half period</Property>
+	<Property Name="varPersistentID:{B165B21B-9C9F-49E0-AC22-0000E221D007}" Type="Ref">/Test-cRIO/RT local Shared Variables.lvlib/SM command</Property>
+	<Property Name="varPersistentID:{C93977A0-5716-4BB4-AE7F-B056366910B5}" Type="Ref">/Test-cRIO/RT global test shared var.lvlib/Flash FPGA?</Property>
+	<Property Name="varPersistentID:{DF2637E8-3831-41CF-9F20-0B3B0014498E}" Type="Ref">/Test-cRIO/RT global Shared Variables.lvlib/Frequency</Property>
 	<Property Name="varPersistentID:{EE4C7718-943E-426C-8521-AF797BC445D4}" Type="Ref">/My Computer/Host Shared Variables.lvlib/Command</Property>
-	<Property Name="varPersistentID:{F615DB22-C26B-4B07-B028-E1D7733D8CF7}" Type="Ref">/TestStand-cRIO/RT global Shared Variables.lvlib/Processed SM command</Property>
+	<Property Name="varPersistentID:{F615DB22-C26B-4B07-B028-E1D7733D8CF7}" Type="Ref">/Test-cRIO/RT global Shared Variables.lvlib/Processed SM command</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -34,13 +44,14 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="commands.ctl" Type="VI" URL="../commands.ctl"/>
 		<Item Name="HMI.vi" Type="VI" URL="../HMI.vi"/>
-		<Item Name="Host bound Shared Variables.lvlib" Type="Library" URL="../Host bound Shared Variables.lvlib"/>
 		<Item Name="Host Shared Variables.lvlib" Type="Library" URL="../Host Shared Variables.lvlib"/>
+		<Item Name="test-HMI shared var.lvlib" Type="Library" URL="../test-HMI shared var.lvlib"/>
+		<Item Name="test-HMI.vi" Type="VI" URL="../test-HMI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
-	<Item Name="TestStand-cRIO" Type="RT CompactRIO">
-		<Property Name="alias.name" Type="Str">TestStand-cRIO</Property>
+	<Item Name="Test-cRIO" Type="RT CompactRIO">
+		<Property Name="alias.name" Type="Str">Test-cRIO</Property>
 		<Property Name="alias.value" Type="Str">192.168.1.91</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;DeviceCode,7744;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">7744</Property>
@@ -215,7 +226,11 @@ AddOutputFilter chunkFilter
 					<Item Name="Dependencies" Type="Dependencies"/>
 					<Item Name="Build Specifications" Type="Build"/>
 				</Item>
-				<Item Name="Dependencies" Type="Dependencies"/>
+				<Item Name="Dependencies" Type="Dependencies">
+					<Item Name="vi.lib" Type="Folder">
+						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
+					</Item>
+				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="test-FPGA" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
 						<Property Name="AllowEnableRemoval" Type="Bool">false</Property>
@@ -253,16 +268,18 @@ AddOutputFilter chunkFilter
 						<Property Name="SupportDownload" Type="Bool">true</Property>
 						<Property Name="SupportResourceEstimation" Type="Bool">false</Property>
 						<Property Name="TargetName" Type="Str">FPGA Target</Property>
-						<Property Name="TopLevelVI" Type="Ref">/TestStand-cRIO/Chassis/FPGA Target/FPGA.vi</Property>
+						<Property Name="TopLevelVI" Type="Ref">/Test-cRIO/Chassis/FPGA Target/FPGA.vi</Property>
 					</Item>
 				</Item>
 			</Item>
 		</Item>
 		<Item Name="RT bound Shared Variables.lvlib" Type="Library" URL="../RT bound Shared Variables.lvlib"/>
 		<Item Name="RT global Shared Variables.lvlib" Type="Library" URL="../RT global Shared Variables.lvlib"/>
+		<Item Name="RT global test shared var.lvlib" Type="Library" URL="../RT global test shared var.lvlib"/>
 		<Item Name="RT local Shared Variables.lvlib" Type="Library" URL="../RT local Shared Variables.lvlib"/>
 		<Item Name="rt state control.ctl" Type="VI" URL="../rt state control.ctl"/>
 		<Item Name="RT.vi" Type="VI" URL="../RT.vi"/>
+		<Item Name="test-blink.vi" Type="VI" URL="../test-blink.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -275,6 +292,53 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
+			<Item Name="basic test" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{E49C018C-CDA1-4249-AE18-041C98310F14}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{D046856C-2A48-4D06-A637-5D1DD4AB19AA}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{F34A676B-81A9-45C5-BF6F-57EE354BC327}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">basic test</Property>
+				<Property Name="Bld_compilerOptLevel" Type="Int">0</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/basic test</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{90A0CFCD-A662-4434-AA1B-37733FF018F5}</Property>
+				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
+				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/home/lvuser/natinst/bin/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E35F1939-E9CA-41DB-958A-4BD4FCB423FF}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/Test-cRIO/test-blink.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/Test-cRIO/RT global test shared var.lvlib</Property>
+				<Property Name="Source[2].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].type" Type="Str">Library</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">basic test</Property>
+				<Property Name="TgtF_internalName" Type="Str">basic test</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 </Property>
+				<Property Name="TgtF_productName" Type="Str">basic test</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{89051012-B1EE-4ED2-A003-F03F65566212}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
+			</Item>
 			<Item Name="test-RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{B913F50C-FD32-4A6A-8609-70C02762A63B}</Property>
@@ -292,7 +356,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{3170A5C0-5830-4830-8CF2-3408357ACF7D}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">16</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
@@ -306,25 +370,25 @@ AddOutputFilter chunkFilter
 				<Property Name="Source[0].itemID" Type="Str">{494548F7-B88E-4303-BD58-2C53E674680F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/TestStand-cRIO/RT.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/Test-cRIO/RT.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/TestStand-cRIO/RT local Shared Variables.lvlib</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/Test-cRIO/RT local Shared Variables.lvlib</Property>
 				<Property Name="Source[2].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">Library</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/TestStand-cRIO/RT bound Shared Variables.lvlib</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/Test-cRIO/RT bound Shared Variables.lvlib</Property>
 				<Property Name="Source[3].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">Library</Property>
 				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[4].itemID" Type="Ref">/TestStand-cRIO/rt state control.ctl</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/Test-cRIO/rt state control.ctl</Property>
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[4].type" Type="Str">VI</Property>
 				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[5].itemID" Type="Ref">/TestStand-cRIO/RT global Shared Variables.lvlib</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/Test-cRIO/RT global Shared Variables.lvlib</Property>
 				<Property Name="Source[5].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[5].type" Type="Str">Library</Property>
